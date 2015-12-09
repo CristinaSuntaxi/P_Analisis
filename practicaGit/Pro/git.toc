@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n a GitHub}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Agenda}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Introducci\IeC {\'o}n}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Git}{7}{0}{1}
+\beamer@subsectionintoc {1}{4}{Comandos}{26}{0}{1}
+\beamer@subsectionintoc {1}{5}{Conclusiones}{29}{0}{1}
+\beamer@subsectionintoc {1}{6}{Bibliograf\IeC {\'\i }a}{30}{0}{1}
+\beamer@subsectionintoc {1}{7}{Licencia}{31}{0}{1}
